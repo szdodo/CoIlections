@@ -1,0 +1,6 @@
+C:\Users\Dodo\Source\Repos\GenericCollections\obj\Debug\GenericCollections.csprojResolveAssemblyReference.cache
+C:\Users\Dodo\Source\Repos\GenericCollections\bin\Debug\GenericCollections.exe.config
+C:\Users\Dodo\Source\Repos\GenericCollections\bin\Debug\GenericCollections.exe
+C:\Users\Dodo\Source\Repos\GenericCollections\bin\Debug\GenericCollections.pdb
+C:\Users\Dodo\Source\Repos\GenericCollections\obj\Debug\GenericCollections.exe
+C:\Users\Dodo\Source\Repos\GenericCollections\obj\Debug\GenericCollections.pdb

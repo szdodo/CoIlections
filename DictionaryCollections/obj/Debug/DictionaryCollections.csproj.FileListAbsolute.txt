@@ -1,0 +1,6 @@
+C:\Users\Dodo\Source\Repos\DictionaryCollections\bin\Debug\DictionaryCollections.exe.config
+C:\Users\Dodo\Source\Repos\DictionaryCollections\bin\Debug\DictionaryCollections.exe
+C:\Users\Dodo\Source\Repos\DictionaryCollections\bin\Debug\DictionaryCollections.pdb
+C:\Users\Dodo\Source\Repos\DictionaryCollections\obj\Debug\DictionaryCollections.csprojResolveAssemblyReference.cache
+C:\Users\Dodo\Source\Repos\DictionaryCollections\obj\Debug\DictionaryCollections.exe
+C:\Users\Dodo\Source\Repos\DictionaryCollections\obj\Debug\DictionaryCollections.pdb

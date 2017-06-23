@@ -1,0 +1,5 @@
+C:\Users\Dodo\Source\Repos\LookupCollections\bin\Debug\LookupCollections.exe.config
+C:\Users\Dodo\Source\Repos\LookupCollections\bin\Debug\LookupCollections.exe
+C:\Users\Dodo\Source\Repos\LookupCollections\bin\Debug\LookupCollections.pdb
+C:\Users\Dodo\Source\Repos\LookupCollections\obj\Debug\LookupCollections.exe
+C:\Users\Dodo\Source\Repos\LookupCollections\obj\Debug\LookupCollections.pdb
